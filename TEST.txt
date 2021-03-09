@@ -1,0 +1,2 @@
+TEST 01
+Test git reset HEAD <file> 01_
